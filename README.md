@@ -2,7 +2,7 @@
 
 In order to run this app, you need to have `php` installed.
 
-- Clone this repositorie
+- Clone this repo
 - You also need to import the database script, which is into de *"database"* folder.
 - Then fix the connection code in order to point to your MySQL server
 
